@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import PropTypes from 'prop-types';
 import './color-box.scss'
 ColorBox.propTypes = {
     
